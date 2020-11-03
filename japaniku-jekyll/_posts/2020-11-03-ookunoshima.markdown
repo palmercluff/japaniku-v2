@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "大久野島 - The Island of Rabbits"
-date:   2020-11-01 12:00:00
+date:   2020-11-03 12:00:00
 categories: jekyll update
 ---
 

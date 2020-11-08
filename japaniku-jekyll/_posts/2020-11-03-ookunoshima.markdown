@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "大久野島 - The Island of Rabbits"
-date:   2020-11-03 12:00:00
+layout:     post
+title:      "大久野島 - The Island of Rabbits"
+date:       2020-11-03 12:00:00
 categories: jekyll update
 ---
 
@@ -10,7 +10,7 @@ categories: jekyll update
 As soon as you get off the boat or ferry, you'll see rabbits all over. Here is the first one we met!
 <img src="http://palmercluff.com/images/ookunoshima/first-rabbit.jpg" style="width:100%" />
 
-There is a hotel and spa on this island. Standing in front of the hotel entrance looking outwards, there is some good scenery, and couple other rabbits! The hotel has bicycles for rent, which we recommend because there are trails around the whole island, and renting a bike is going to be a little more efficient than walking if you are stressed for time. Biking around the whole island takes a couple hours.
+There is a hotel and spa on this island. Standing in front of the hotel entrance and looking outwards, there is great scenery. The hotel has bicycles for rent, which we recommend because there are trails around the whole island. Biking around the whole island takes a couple hours, so and renting a bike is going to be a little more efficient in opposed to walking if you are stressed for time.
 <img src="http://palmercluff.com/images/ookunoshima/front-of-hotel.jpg" style="width:100%" />
 <img src="http://palmercluff.com/images/ookunoshima/bicycle.jpg" style="width:100%" />
 

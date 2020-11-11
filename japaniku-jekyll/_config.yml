@@ -4,8 +4,9 @@ email: palmercluff@gmail.com
 description: "A Blog About Traveling, Japan, and Everything In Between!"
 baseurl: "/japan-blog"
 url: "http://palmercluff.com"
-twitter_username: ya_boi_palmer
-github_username:  palmercluff
+twitter_username:  ya_boi_palmer
+github_username:   palmercluff
+linkedin_username: palmer-cluff-04ba13b6
 
 # Build settings
 markdown: kramdown

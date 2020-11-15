@@ -14,20 +14,23 @@
     <div class="footer-col-2 column">
       <ul>
         {% if site.github_username %}
-	<li class="fa fa-github">
+	<li>
           <a href="https://github.com/{{ site.github_username }}">
+	    <li class="fa fa-github"></li>
             <span class="username">{{ site.github_username }}</span>
           </a>
         </li>{% endif %}
         {% if site.twitter_username %}
-	<li class="fa fa-twitter">
+	<li>
           <a href="https://twitter.com/{{ site.twitter_username }}">
+	    <li class="fa fa-twitter"></li>
             <span class="username">{{ site.twitter_username }}</span>
           </a>
         </li>{% endif %}
 	{% if site.linkedin_username %}
-	<li class="fa fa-linkedin">
+	<li>
           <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+	    <li class="fa fa-linkedin"></li>
             <span class="username">{{ site.linkedin_username }}</span>
           </a>
         </li>{% endif %}

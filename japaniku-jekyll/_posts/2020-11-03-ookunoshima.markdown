@@ -5,7 +5,7 @@ date:       2020-11-03 12:00:00
 categories: jekyll update
 ---
 
-大久野島 (Ōkunoshima) is a small island just off of the main Island of Japan within the Hiroshima prefecture. It was an island primary used for manufacturing poison gas for WWII. Most travelers get there from Osaka, taking the bullet train from Shin-Osaka station to Mihara station, then a train from Mihara station to Tadano-Umi station. Lastly, you take a boat or ferry to Ōkunoshima. The whole trip from Osaka one-way takes around 3-4 hours. Before getting on the boat or ferry, you can find vendors selling "rabbit food" that you can take with you to the island to feed its rabbit inhabitants.
+大久野島 (Ōkunoshima) is a small island just off of the main Island of Japan within the Hiroshima prefecture. It was an island used primarily for manufacturing poison gas during WWII. Most travelers get there from Osaka, taking the bullet train from Shin-Osaka station to Mihara station, then a train from Mihara station to Tadano-Umi station. Lastly, you take a boat or ferry to Ōkunoshima. The whole trip from Osaka one-way takes around 3-4 hours. Before getting on the boat or ferry, you can find vendors selling "rabbit food" that you can take with you to the island to feed its rabbit inhabitants.
 
 As soon as you get off the boat or ferry, you'll see rabbits all over. Here is the first one we met!
 <img src="http://palmercluff.com/images/ookunoshima/first-rabbit.jpg" style="width:100%" />
@@ -89,7 +89,7 @@ Here is the old poison gas laboratory!
 <img src="http://palmercluff.com/images/ookunoshima/lab-3.jpg" style="width:100%" />
 <img src="http://palmercluff.com/images/ookunoshima/lab-4.jpg" style="width:100%" />
 
-Here is some other miscellaneous pics.
+Here are some other miscellaneous pics.
 <img src="http://palmercluff.com/images/ookunoshima/misc-1.jpg" style="width:100%" />
 <img src="http://palmercluff.com/images/ookunoshima/misc-2.jpg" style="width:100%" />
 <img src="http://palmercluff.com/images/ookunoshima/misc-3.jpg" style="width:100%" />

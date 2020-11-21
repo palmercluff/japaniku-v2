@@ -5,7 +5,7 @@ date:       2020-11-16 12:00:00
 categories: jekyll update
 ---
 
-伏見稲荷大社 (Fushimi inari-taisha) is a famous shrine located in Kyoto. It is best known for it's many miles of rowed torii gates and walking trails. It's a big tourist hotspot, so if you want to go when there is not that many people, you have to wake up early before anybody else.
+伏見稲荷大社 (Fushimi inari-taisha) is a famous shrine located in Kyoto. It is best known for its many miles of rowed torii gates and walking trails. It's a big tourist hotspot, so if you want to go when there is not that many people, you have to wake up early before anybody else.
 
 The entrance to the shrine is very close to the train station. Just across the street, you can already see a torii gate.
 <img src="http://palmercluff.com/images/fushimiinaritaisha/journey-1.jpg" style="width:100%" />
